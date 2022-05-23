@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @amoon459
+- 👋 Hi, I’m Anderson @amoon459
 - 👀 I’m interested in Data Science, Data Analytics, and Machine Learning
 - 🌱 I’m currently learning SQL, Python, R, and other Data Science related fields
 - 💞️ I’m looking for Entry-level Data Analyst positions, Data Science apprenticeships, or other opportunities.
